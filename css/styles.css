@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('../header.jpg'); 
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('../images/header.jpg'); 
     background-size: cover;
     background-position: center;
     height: 180px;
@@ -159,14 +159,14 @@ h2 {
 }
 
 #about {
-    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../me.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../images/me.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 #skills {
-    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../skills.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../images/skills.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -243,8 +243,8 @@ opacity: 1;
     background-position: center;
 }
 
-.bg-1 { background-image: url('../proyecto1.jpg'); 
+.bg-1 { background-image: url('../images/proyecto1.jpg'); 
  border-radius: 16px;}
 
- .bg-2 { background-image: url('../proyecto2.jpg'); 
+ .bg-2 { background-image: url('../images/proyecto2.jpg'); 
  border-radius: 16px;}
